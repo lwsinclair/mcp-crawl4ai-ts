@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/omgwtfwow-mcp-crawl4ai-ts-badge.png)](https://mseep.ai/app/omgwtfwow-mcp-crawl4ai-ts)
+
 # MCP Server for Crawl4AI
 
 > **Note:** Tested with Crawl4AI version 0.7.4
